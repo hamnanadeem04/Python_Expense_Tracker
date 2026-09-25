@@ -112,13 +112,14 @@ This project helped me practice the following Python concepts:
 To get a copy of this project on your computer, run:
 
 ```bash
-git clone https://github.com/hamnanadeem04/Python_Expense_Tracker.git 
-## How to Run
+git clone https://github.com/hamnanadeem04/Python_Expense_Tracker.git
+```
 
-1. Make sure Python is installed on your computer.
-2. Download or clone this repository.
-3. Open the project folder in VS Code or a terminal.
-4. Run the Python file.
+## How to Run
+Make sure Python is installed on your computer.
+Download or clone this repository.
+Open the project folder in VS Code or a terminal.
+Run the Python file.
 
 Example:
 
